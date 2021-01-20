@@ -13,6 +13,9 @@ body{
     font-weight: bold;
 
 }
+.bottom{
+    background-color: blue;
+}
 
 .top {
     background-image: url('/images/karate-bg.jpg');
@@ -27,6 +30,7 @@ body{
 
 #email{
     border: 10px black;
+ 
     
 }
 
