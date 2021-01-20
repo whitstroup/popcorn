@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap');
+
+body{
+    font-family: 'Architects Daughter';
+    text-align: center;
+}
+
+#subscribe{
+    background-color: orange;
+    color:black;
+    border-radius: .5em;
+    width: 100%;
+    font-weight: bold;
+
+}
+
+.top {
+    background-image: url('/images/karate-bg.jpg');
+    color: white;
+}
+
+.form-container {
+    background-color:rgb(67, 60, 60);
+    margin: 2em -1em 0;
+    padding: 2em;
+}
+
+#email{
+    border: 10px black;
+    
+}
+
+#whit{
+    color: white;
+    margin: 1em;
+    border: black 25px;
+    
+}
+
+.chickfeet {
+    color: blue;
+    padding: 53m;
+    background-color: whitesmoke;
+
+
+}
+
+.email, p{
+    color: yellow;
+    outline: brown;
+    bottom: 10em;
+    
+
+}
